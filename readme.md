@@ -1,8 +1,8 @@
-# Automated Web Visit Simulation with Selenium Wire
+# Automated Web Visit Simulation with Selenium 
 
 ## Overview
 
-This project is designed to simulate automated visits to a specified webpage using **Selenium Wire**. It features proxy integration, random user agents, and realistic browsing behavior like scrolling and clicking. The script uses **Oxylabs** proxies to rotate IPs, and a **SQLite database** to select random mobile user agents for each session.
+This project is designed to simulate automated visits to a specified webpage using **Selenium **. It features proxy integration, random user agents, and realistic browsing behavior like scrolling and clicking. The script uses **Oxylabs** proxies to rotate IPs, and a **SQLite database** to select random mobile user agents for each session.
 
 ### Key Features
 
